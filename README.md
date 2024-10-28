@@ -14,8 +14,12 @@ Source:
 
 https://fonts.google.com
 
-https://favicon.io/favicon-converter/
+https://favicon.io/
+
+https://react-icons.github.io/react-icons/
 
 https://pixabay.com/pl/
 
 https://kit.fontawesome.com/
+
+https://cssgradient.io/
