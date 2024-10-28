@@ -1,0 +1,23 @@
+
+footer {
+    background: linear-gradient(90deg, rgb(240, 225, 255) 0%, rgb(219, 183, 255) 0%, rgb(240, 224, 255) 39%, rgb(240, 225, 255) 84%);
+    width: 100%;
+    text-align: center;
+    padding: 30px;
+}
+
+.fab-footer {
+    font-size: 30px;
+    background-color: #f0e1ff;
+    letter-spacing: 30px;
+    line-height: 5em;
+}
+
+.copyR {
+    line-height: 30px;
+    font-size: 15px;
+}
+
+.fab-fav {
+    margin: 30px 0 30px 0;
+}

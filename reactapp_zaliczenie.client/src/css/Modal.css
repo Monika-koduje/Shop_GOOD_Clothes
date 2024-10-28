@@ -1,0 +1,39 @@
+
+.modal-size {
+    --bs-modal-width: 153vh;
+}
+
+.modal-header-custom {
+    background-color: #f0e1ff;
+    border-bottom: none;
+}
+
+.modal-body-custom {
+    padding: 2rem;
+}
+
+.modal-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #333;
+}
+
+.modal-content {
+    background-image: url("../../public/image/flowers.png");
+    background-position-x: center;
+}
+
+.modal-img {
+    background: white;
+}
+
+.modal-img-shop {
+    background-image: url("../../public/image/background.jpg");
+    background-size: cover;
+}
+
+.sign-in-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
