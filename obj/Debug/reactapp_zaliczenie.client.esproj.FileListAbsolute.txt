@@ -1,0 +1,3 @@
+C:\Users\mosen\Documents\Studia podyplomowe 2024\Tworzenie interfejsów użytkownika\Projek_sklep_odziezowy\reactapp_zaliczenie.client\obj\Debug\reactapp_zaliczenie.client.esproj.CoreCompileInputs.cache
+C:\Users\mosen\Documents\Studia podyplomowe 2024\Projek_sklep_odziezowy\Projek_sklep_odziezowy\reactapp_zaliczenie.client\obj\Debug\reactapp_zaliczenie.client.esproj.CoreCompileInputs.cache
+C:\Users\mosen\Documents\Studia podyplomowe 2024\semestr letni\Projek_sklep_odziezowy\Projek_sklep_odziezowy\reactapp_zaliczenie.client\obj\Debug\reactapp_zaliczenie.client.esproj.CoreCompileInputs.cache
