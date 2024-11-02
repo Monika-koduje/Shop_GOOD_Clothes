@@ -22,7 +22,7 @@ import { ForgotPassword } from './pages/ForgotPassword.jsx';
 
 ReactDOM.createRoot(document.getElementById("root")).render(
     <React.StrictMode>
-        <BrowserRouter basename="/Shop_GOOD_Clothes/">
+        <BrowserRouter basename={import.meta.env.BASE_URL}">
             <Routes>
                 <Route path='/' element={<Layout />}>
                     <Route index element={<App />} />
