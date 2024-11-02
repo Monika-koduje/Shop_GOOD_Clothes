@@ -4,7 +4,7 @@ import { fileURLToPath, URL } from 'node:url';
 
 export default defineConfig({
   plugins: [plugin()],
-  base: "/vite-react-deploy/",
+  base: "/Shop_GOOD_Clothes/",
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
