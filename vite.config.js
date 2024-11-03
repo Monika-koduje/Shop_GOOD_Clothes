@@ -3,5 +3,5 @@ import plugin from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [plugin()],
-  base: "/Shop_GOOD_Clothes/",
+  base: "https://github.com/Monika-koduje/Shop_GOOD_Clothes/",
 });
