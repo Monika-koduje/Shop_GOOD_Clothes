@@ -6,7 +6,7 @@ export const NewClothesCollectionImage = () => {
 
         <Card className="bg-dark text-white">
 
-            <Card.Img className="new-products-img" src="/image/store-906722_1280.jpg" alt="Card image" />
+            <Card.Img className="new-products-img" src="/Shop_GOOD_Clothes/image/store-906722_1280.jpg" alt="Card image" />
 
             <Card.ImgOverlay>
                 <Card.Title className="new-products text-big">Nowości</Card.Title>

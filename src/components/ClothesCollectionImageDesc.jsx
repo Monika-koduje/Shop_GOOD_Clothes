@@ -10,7 +10,7 @@ export const ClothesCollectionImageDesc = () => {
                 <Col>
                     <Card className="card-icon">
                    
-                    <Button className="button-collection" ><Card.Img variant="top" src="/image/ai-generated-7981929_1280.jpg" /></Button>
+                    <Button className="button-collection" ><Card.Img variant="top" src="/Shop_GOOD_Clothes/image/ai-generated-7981929_1280.jpg" /></Button>
                         <Card.Body>
                             <Card.Title>Sukienki</Card.Title>
                             <Card.Text>
@@ -24,7 +24,7 @@ export const ClothesCollectionImageDesc = () => {
                 <Col>
                     <Card className="card-icon">
                     
-                    <Button className="button-collection" ><Card.Img variant="top" src="image/ai-generated-8208064_1280.jpg" /></Button>
+                    <Button className="button-collection" ><Card.Img variant="top" src="/Shop_GOOD_Clothes/image/ai-generated-8208064_1280.jpg" /></Button>
                         <Card.Body>
                             <Card.Title>Komplety</Card.Title>
                             <Card.Text>
@@ -38,7 +38,7 @@ export const ClothesCollectionImageDesc = () => {
                 <Col>
                     <Card className="card-icon">
                     
-                    <Button className="button-collection" ><Card.Img variant="top" src="image/shoes-8212405_1280.jpg" /></Button>
+                    <Button className="button-collection" ><Card.Img variant="top" src="/Shop_GOOD_Clothes/image/shoes-8212405_1280.jpg" /></Button>
                         <Card.Body>
                             <Card.Title>Buty</Card.Title>
                             <Card.Text>
@@ -52,7 +52,7 @@ export const ClothesCollectionImageDesc = () => {
                 <Col>
                     <Card className="card-icon">
                    
-                    <Button className="button-collection" > <Card.Img variant="top" src="image/woman-8704204_1280.jpg" /></Button>
+                    <Button className="button-collection" > <Card.Img variant="top" src="/Shop_GOOD_Clothes/image/woman-8704204_1280.jpg" /></Button>
                         <Card.Body>
                             <Card.Title>Dresy</Card.Title>
                             <Card.Text>

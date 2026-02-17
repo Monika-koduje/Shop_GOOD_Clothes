@@ -8,7 +8,7 @@ export const BigImage = () => {
 
 
     <div class="bg-image vh-100"
-      style="margin-top: -58.59px; background-image: url('../public/image/....');">
+      style="margin-top: -58.59px; background-image: url('../public/Shop_GOOD_Clothes/image/....');">
     </div>
 
   </header>

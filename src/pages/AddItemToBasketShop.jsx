@@ -15,7 +15,7 @@ export const Item = ({ item, cartItems, setCartItems, toggleFavorite }) => {
     const [product, setProduct] = useState({
         id: '54321',
         name: 'Sweter luxus',
-        imageUrl: '/image/fashion-1.jpg',
+        imageUrl: '/Shop_GOOD_Clothes/image/fashion-1.jpg',
         code: '12345',
         catalogNumber: '54321',
         category: 'Kobieta',
