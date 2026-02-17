@@ -1,18 +1,18 @@
-﻿import React from 'react';
-import ReactDOM from 'react-dom/client';
-import App from './App.jsx';
-import './index.css';
+﻿import React from 'react'
+import ReactDOM from 'react-dom/client'
+import App from './App.jsx'
+import './index.css'
 import { Item } from './pages/AddItemToBasketShop.jsx';
-import { Basket } from './pages/BasketShop.jsx';
-import { Saved } from './pages/FavoriteItems.jsx';
-import { User } from './pages/User.jsx';
-import { NewUser } from './pages/NewUser.jsx';
-import { SignInUser } from './pages/SignInUser.jsx';
-import { AboutUs } from './pages/AboutUs.jsx';
-import { Sale } from './pages/Sale.jsx';
-import { Woman } from './pages/ForWoman.jsx';
-import { Man } from './pages/ForMan.jsx';
-import { Kids } from './pages/ForKids.jsx';
+import { Basket } from './pages/BasketShop.jsx'
+import { Saved } from './pages/FavoriteItems.jsx'
+import { User } from './pages/User.jsx'
+import { NewUser } from './pages/NewUser.jsx'
+import { SignInUser } from './pages/SignInUser.jsx'
+import { AboutUs } from './pages/AboutUs.jsx'
+import { Sale } from './pages/Sale.jsx'
+import { Woman } from './pages/ForWoman.jsx'
+import { Man } from './pages/ForMan.jsx'
+import { Kids } from './pages/ForKids.jsx'
 import { Layout } from './layout/Layout.jsx';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import { ForgotPassword } from './pages/ForgotPassword.jsx';
