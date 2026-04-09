@@ -232,7 +232,7 @@ export const User = () => {
                                 <td>{order.quantity}</td>
                                 <td>{order.category}</td>
                                 <td>
-                                    <Image thumbnail className="img-carousel img-size" src={`/Shop_GOOD_Clothes/Shop_GOOD_Clothes/image/${order.imageUrl}`} />
+                                    <Image thumbnail className="img-carousel img-size" src={`/Shop_GOOD_Clothes/Shop_GOOD_Clothes${order.imageUrl}`} />
                                 </td>
                                 <td>{order.price}</td>
                             </tr>
