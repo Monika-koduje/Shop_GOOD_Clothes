@@ -16,9 +16,9 @@ import { Item } from './AddItemToBasketShop';
 
 export const Basket = () => {
     const [cartItems, setCartItems] = useState([
-        { id: '111222', name: 'Bluza', size: '38', quantity: 1, category: 'Ubrania letnie', imageUrl: '/Shop_GOOD_Clothes/image/fashion-2.jpg', price: 200 },
-        { id: '333222', name: 'Sukienka', size: 'M', quantity: 1, category: 'Ubrania wiosenne', imageUrl: '/Shop_GOOD_Clothes/image/woman-2.jpg', price: 430 },
-        { id: '333444', name: 'Kurtka', size: 'XL', quantity: 1, category: 'Ubrania zimowe', imageUrl: '/Shop_GOOD_Clothes/image/ai-generated-2.jpg', price: 110 }
+        { id: '111222', name: 'Bluza', size: '38', quantity: 1, category: 'Ubrania letnie', imageUrl: `/Shop_GOOD_Clothes/Shop_GOOD_Clothes/image/fashion-2.jpg`, price: 200 },
+        { id: '333222', name: 'Sukienka', size: 'M', quantity: 1, category: 'Ubrania wiosenne', imageUrl: `/Shop_GOOD_Clothes/Shop_GOOD_Clothes/image/woman-2.jpg`, price: 430 },
+        { id: '333444', name: 'Kurtka', size: 'XL', quantity: 1, category: 'Ubrania zimowe', imageUrl: `/Shop_GOOD_Clothes/Shop_GOOD_Clothes/image/ai-generated-2.jpg`, price: 110 }
     ]);
     const [selectedItems, setSelectedItems] = useState([]);
     const [selectedDelivery, setSelectedDelivery] = useState(null);

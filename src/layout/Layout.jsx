@@ -24,7 +24,7 @@ export function Layout() {
                     <Container>
                         <Navbar.Brand>
                             <Link to="/" className="d-block">
-                                <Image className="logo avatar" src="/Shop_GOOD_Clothes/image/logo.png" alt="Logo" layout="fill" objectFit="cover" />
+                                <Image className="logo avatar" src={`/Shop_GOOD_Clothes/Shop_GOOD_Clothes/image/logo.png`} alt="Logo" layout="fill" objectFit="cover" />
                                 <p className="brand-name">GOOD Clothes</p>
                             </Link>
                         </Navbar.Brand>
@@ -54,11 +54,11 @@ export function Layout() {
                                 </NavDropdown>
                             </Nav>
                             <Nav>
-                                <Image className="img-fav heart-fav" src="/Shop_GOOD_Clothes/image/favicon-16x16-heart.png" />
+                                <Image className="img-fav heart-fav" src={`/Shop_GOOD_Clothes/Shop_GOOD_Clothes/image/favicon-16x16-heart.png`} />
                                 <Nav.Link>
                                     <Link to="/saved" className="d-block">Zapisane</Link>
                                 </Nav.Link>
-                                <Image className="img-fav user-fav" src="/Shop_GOOD_Clothes/image/favicon-16x16-user.png" />
+                                <Image className="img-fav user-fav" src={`/Shop_GOOD_Clothes/Shop_GOOD_Clothes/image/favicon-16x16-user.png`} />
                                 <NavDropdown title="Logowanie" id="collapsible-nav-dropdown">
                                     <NavDropdown.Item onClick={handleShowLogin}>
                                         Zaloguj się
@@ -71,7 +71,7 @@ export function Layout() {
                                         <Link to="/user" className="d-block">Konto</Link>
                                     </NavDropdown.Item>
                                 </NavDropdown>
-                                <Image className="img-fav basket-fav" src="/Shop_GOOD_Clothes/image/favicon-16x16-basket.png" />
+                                <Image className="img-fav basket-fav" src={`/Shop_GOOD_Clothes/Shop_GOOD_Clothes/image/favicon-16x16-basket.png`} />
                                 <Nav.Link eventKey={2}>
                                     <Link to="/basket" className="d-block">Koszyk</Link>
                                 </Nav.Link>

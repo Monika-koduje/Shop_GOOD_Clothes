@@ -8,7 +8,7 @@ export const CarouselImageDesc = () => {
 
             <Carousel.Item className="carousel-img">
 
-                <Image className="img-carousel" src="/Shop_GOOD_Clothes/image/fashion-8012239_1280.jpg" />
+                <Image className="img-carousel" src={`/Shop_GOOD_Clothes/Shop_GOOD_Clothes/image/fashion-8012239_1280.jpg`} />
 
                 <Carousel.Caption className="desc-img-carousel">
                     <h3 className="img-desc">Ubrania codzienne</h3>
@@ -19,7 +19,7 @@ export const CarouselImageDesc = () => {
 
             <Carousel.Item>
 
-                <Image className="img-carousel" src="/Shop_GOOD_Clothes/image/hangers-1850082_1280.jpg" />
+                <Image className="img-carousel" src={`/Shop_GOOD_Clothes/Shop_GOOD_Clothes/image/hangers-1850082_1280.jpg`} />
 
                 <Carousel.Caption className="desc-img-carousel">
                     <h3 className="img-desc">Kurtki</h3>
@@ -30,7 +30,7 @@ export const CarouselImageDesc = () => {
 
             <Carousel.Item>
 
-                <Image className="img-carousel" src="/Shop_GOOD_Clothes/image/fashion-1283863_1920.jpg" />
+                <Image className="img-carousel" src={`/Shop_GOOD_Clothes/Shop_GOOD_Clothes/image/fashion-1283863_1920.jpg`} />
 
                 <Carousel.Caption className="desc-img-carousel">
                     <h3 className="img-desc">Buty</h3>

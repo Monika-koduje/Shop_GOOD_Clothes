@@ -55,7 +55,7 @@ export const Kids = () => {
             </Row>
             <Row className="d-flex justify-content-center">
                 <Col xs={6} md={3}>
-                    <Image src="/Shop_GOOD_Clothes/image/7.jpg" thumbnail />
+                    <Image src={`/Shop_GOOD_Clothes/Shop_GOOD_Clothes/image/7.jpg`} thumbnail />
                     {!inFavorites ? (
                         <button type="button" className="size-price btn btn-primary-hover-2 btn-block mb-4" onClick={handleAddToFavorites}>
                             <FaHeart />
@@ -77,7 +77,7 @@ export const Kids = () => {
 
                 </Col>
                 <Col xs={6} md={3}>
-                    <Image src="/Shop_GOOD_Clothes/image/8.jpg" thumbnail />
+                    <Image src={`/Shop_GOOD_Clothes/Shop_GOOD_Clothes/image/8.jpg`} thumbnail />
                     {!inFavorites ? (
                         <button type="button" className="size-price btn btn-primary-hover-2 btn-block mb-4" onClick={handleAddToFavorites}>
                             <FaHeart />
@@ -98,72 +98,7 @@ export const Kids = () => {
                     )}
                 </Col>
                 <Col xs={6} md={3}>
-                    <Image src="/Shop_GOOD_Clothes/image/12.jpg" thumbnail />
-                    {!inFavorites ? (
-                        <button type="button" className="size-price btn btn-primary-hover-2 btn-block mb-4" onClick={handleAddToFavorites}>
-                            <FaHeart />
-                        </button>
-                    ) : (
-                        <button type="button" className="size-price btn btn-danger btn-block mb-4" onClick={handleRemoveFromFavorites}>
-                            <FaHeart />
-                        </button>
-                    )}
-                    {!inCart ? (
-                        <button type="button" className="fa-style size-price btn  btn-primary-hover-2 btn-block mb-4" onClick={handleAddToCart}>
-                            <BsFillBasket2Fill />
-                        </button>
-                    ) : (
-                        <button type="button" className="fa-style size-price btn btn-danger btn-block mb-4" onClick={handleRemoveFromCart}>
-                            <BsFillBasket2Fill />
-                        </button>
-                    )}
-                </Col>
-            </Row>
-            <Row className="d-flex justify-content-center">
-                <Col xs={6} md={3}>
-                    <Image src="/Shop_GOOD_Clothes/image/13.jpg" thumbnail />
-                    {!inFavorites ? (
-                        <button type="button" className="size-price btn btn-primary-hover-2 btn-block mb-4" onClick={handleAddToFavorites}>
-                            <FaHeart />
-                        </button>
-                    ) : (
-                        <button type="button" className="size-price btn btn-danger btn-block mb-4" onClick={handleRemoveFromFavorites}>
-                            <FaHeart />
-                        </button>
-                    )}
-                    {!inCart ? (
-                        <button type="button" className="fa-style size-price btn  btn-primary-hover-2 btn-block mb-4" onClick={handleAddToCart}>
-                            <BsFillBasket2Fill />
-                        </button>
-                    ) : (
-                        <button type="button" className="fa-style size-price btn btn-danger btn-block mb-4" onClick={handleRemoveFromCart}>
-                            <BsFillBasket2Fill />
-                        </button>
-                    )}
-                </Col>
-                <Col xs={6} md={3}>
-                    <Image src="/Shop_GOOD_Clothes/image/37.jpg" thumbnail />
-                    {!inFavorites ? (
-                        <button type="button" className="size-price btn btn-primary-hover-2 btn-block mb-4" onClick={handleAddToFavorites}>
-                            <FaHeart />
-                        </button>
-                    ) : (
-                        <button type="button" className="size-price btn btn-danger btn-block mb-4" onClick={handleRemoveFromFavorites}>
-                            <FaHeart />
-                        </button>
-                    )}
-                    {!inCart ? (
-                        <button type="button" className="fa-style size-price btn  btn-primary-hover-2 btn-block mb-4" onClick={handleAddToCart}>
-                            <BsFillBasket2Fill />
-                        </button>
-                    ) : (
-                        <button type="button" className="fa-style size-price btn btn-danger btn-block mb-4" onClick={handleRemoveFromCart}>
-                            <BsFillBasket2Fill />
-                        </button>
-                    )}
-                </Col>
-                <Col xs={6} md={3}>
-                    <Image src="/Shop_GOOD_Clothes/image/36.jpg" thumbnail />
+                    <Image src={`/Shop_GOOD_Clothes/Shop_GOOD_Clothes/image/12.jpg`} thumbnail />
                     {!inFavorites ? (
                         <button type="button" className="size-price btn btn-primary-hover-2 btn-block mb-4" onClick={handleAddToFavorites}>
                             <FaHeart />
@@ -186,7 +121,7 @@ export const Kids = () => {
             </Row>
             <Row className="d-flex justify-content-center">
                 <Col xs={6} md={3}>
-                    <Image src="/Shop_GOOD_Clothes/image/11.jpg" thumbnail />
+                    <Image src={`/Shop_GOOD_Clothes/Shop_GOOD_Clothes/image/13.jpg`} thumbnail />
                     {!inFavorites ? (
                         <button type="button" className="size-price btn btn-primary-hover-2 btn-block mb-4" onClick={handleAddToFavorites}>
                             <FaHeart />
@@ -207,7 +142,7 @@ export const Kids = () => {
                     )}
                 </Col>
                 <Col xs={6} md={3}>
-                    <Image src="/Shop_GOOD_Clothes/image/17.jpg" thumbnail />
+                    <Image src={`/Shop_GOOD_Clothes/Shop_GOOD_Clothes/image/37.jpg`} thumbnail />
                     {!inFavorites ? (
                         <button type="button" className="size-price btn btn-primary-hover-2 btn-block mb-4" onClick={handleAddToFavorites}>
                             <FaHeart />
@@ -228,7 +163,7 @@ export const Kids = () => {
                     )}
                 </Col>
                 <Col xs={6} md={3}>
-                    <Image src="/Shop_GOOD_Clothes/image/15.jpg" thumbnail />
+                    <Image src={`/Shop_GOOD_Clothes/Shop_GOOD_Clothes/image/36.jpg`} thumbnail />
                     {!inFavorites ? (
                         <button type="button" className="size-price btn btn-primary-hover-2 btn-block mb-4" onClick={handleAddToFavorites}>
                             <FaHeart />
@@ -251,7 +186,7 @@ export const Kids = () => {
             </Row>
             <Row className="d-flex justify-content-center">
                 <Col xs={6} md={3}>
-                    <Image src="/Shop_GOOD_Clothes/image/16.jpg" thumbnail />
+                    <Image src={`/Shop_GOOD_Clothes/Shop_GOOD_Clothes/image/11.jpg`} thumbnail />
                     {!inFavorites ? (
                         <button type="button" className="size-price btn btn-primary-hover-2 btn-block mb-4" onClick={handleAddToFavorites}>
                             <FaHeart />
@@ -272,7 +207,7 @@ export const Kids = () => {
                     )}
                 </Col>
                 <Col xs={6} md={3}>
-                    <Image src="/Shop_GOOD_Clothes/image/14.jpg" thumbnail />
+                    <Image src={`/Shop_GOOD_Clothes/Shop_GOOD_Clothes/image/17.jpg`} thumbnail />
                     {!inFavorites ? (
                         <button type="button" className="size-price btn btn-primary-hover-2 btn-block mb-4" onClick={handleAddToFavorites}>
                             <FaHeart />
@@ -293,7 +228,72 @@ export const Kids = () => {
                     )}
                 </Col>
                 <Col xs={6} md={3}>
-                    <Image src="/Shop_GOOD_Clothes/image/fashion-1283863_1920.jpg" thumbnail />
+                    <Image src={`/Shop_GOOD_Clothes/Shop_GOOD_Clothes/image/15.jpg`} thumbnail />
+                    {!inFavorites ? (
+                        <button type="button" className="size-price btn btn-primary-hover-2 btn-block mb-4" onClick={handleAddToFavorites}>
+                            <FaHeart />
+                        </button>
+                    ) : (
+                        <button type="button" className="size-price btn btn-danger btn-block mb-4" onClick={handleRemoveFromFavorites}>
+                            <FaHeart />
+                        </button>
+                    )}
+                    {!inCart ? (
+                        <button type="button" className="fa-style size-price btn  btn-primary-hover-2 btn-block mb-4" onClick={handleAddToCart}>
+                            <BsFillBasket2Fill />
+                        </button>
+                    ) : (
+                        <button type="button" className="fa-style size-price btn btn-danger btn-block mb-4" onClick={handleRemoveFromCart}>
+                            <BsFillBasket2Fill />
+                        </button>
+                    )}
+                </Col>
+            </Row>
+            <Row className="d-flex justify-content-center">
+                <Col xs={6} md={3}>
+                    <Image src={`/Shop_GOOD_Clothes/Shop_GOOD_Clothes/image/16.jpg`} thumbnail />
+                    {!inFavorites ? (
+                        <button type="button" className="size-price btn btn-primary-hover-2 btn-block mb-4" onClick={handleAddToFavorites}>
+                            <FaHeart />
+                        </button>
+                    ) : (
+                        <button type="button" className="size-price btn btn-danger btn-block mb-4" onClick={handleRemoveFromFavorites}>
+                            <FaHeart />
+                        </button>
+                    )}
+                    {!inCart ? (
+                        <button type="button" className="fa-style size-price btn  btn-primary-hover-2 btn-block mb-4" onClick={handleAddToCart}>
+                            <BsFillBasket2Fill />
+                        </button>
+                    ) : (
+                        <button type="button" className="fa-style size-price btn btn-danger btn-block mb-4" onClick={handleRemoveFromCart}>
+                            <BsFillBasket2Fill />
+                        </button>
+                    )}
+                </Col>
+                <Col xs={6} md={3}>
+                    <Image src={`/Shop_GOOD_Clothes/Shop_GOOD_Clothes/image/14.jpg`} thumbnail />
+                    {!inFavorites ? (
+                        <button type="button" className="size-price btn btn-primary-hover-2 btn-block mb-4" onClick={handleAddToFavorites}>
+                            <FaHeart />
+                        </button>
+                    ) : (
+                        <button type="button" className="size-price btn btn-danger btn-block mb-4" onClick={handleRemoveFromFavorites}>
+                            <FaHeart />
+                        </button>
+                    )}
+                    {!inCart ? (
+                        <button type="button" className="fa-style size-price btn  btn-primary-hover-2 btn-block mb-4" onClick={handleAddToCart}>
+                            <BsFillBasket2Fill />
+                        </button>
+                    ) : (
+                        <button type="button" className="fa-style size-price btn btn-danger btn-block mb-4" onClick={handleRemoveFromCart}>
+                            <BsFillBasket2Fill />
+                        </button>
+                    )}
+                </Col>
+                <Col xs={6} md={3}>
+                    <Image src={`/Shop_GOOD_Clothes/Shop_GOOD_Clothes/image/fashion-1283863_1920.jpg`} thumbnail />
                     {!inFavorites ? (
                         <button type="button" className="size-price btn btn-primary-hover-2 btn-block mb-4" onClick={handleAddToFavorites}>
                             <FaHeart />

@@ -156,7 +156,7 @@ a {
 }
 
 .mr-sm-2 {
-    background-image: url(../public/image/favicon-32x32-search.png);
+    background-image: url('/Shop_GOOD_Clothes/image/favicon-32x32-search.png');
     background-repeat: no-repeat;
     background-position: 10% 40%;
     background-size: 20px;
@@ -219,7 +219,7 @@ a {
 }
 
 .big-img {
-    background-image: url('../public/image/wedi-8074671_1280.jpg');
+    background-image: url('/Shop_GOOD_Clothes/image/wedi-8074671_1280.jpg');
 }
 
 .big {

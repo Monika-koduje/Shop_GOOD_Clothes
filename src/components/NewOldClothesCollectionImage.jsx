@@ -27,7 +27,7 @@ export const NewOldClothesCollectionImage = () => {
                             </Card.Text>
 
                         </Card.Body>
-                        <Button className="button-collection" type="submit"><Card.Img variant="top" src="/Shop_GOOD_Clothes/image/8.jpg" /></Button>
+                        <Button className="button-collection" type="submit"><Card.Img variant="top" src={`/Shop_GOOD_Clothes/Shop_GOOD_Clothes/image/8.jpg`} /></Button>
                         
                     </Card>
 
@@ -46,7 +46,7 @@ export const NewOldClothesCollectionImage = () => {
                             </Card.Text>
                             
                         </Card.Body>
-                        <Button className="button-collection" type="submit"><Card.Img variant="top" src="/Shop_GOOD_Clothes/image/christmas-2971961_1280.jpg" /></Button>
+                        <Button className="button-collection" type="submit"><Card.Img variant="top" src={`/Shop_GOOD_Clothes/Shop_GOOD_Clothes/image/christmas-2971961_1280.jpg`} /></Button>
                     </Card>
 
                 </div>
@@ -68,7 +68,7 @@ export const NewOldClothesCollectionImage = () => {
                             </Card.Text>
 
                         </Card.Body>
-                        <Button className="button-collection" type="submit"><Card.Img variant="bottom" src="/Shop_GOOD_Clothes/image/woman-600225_1280.jpg" /></Button>
+                        <Button className="button-collection" type="submit"><Card.Img variant="bottom" src={`/Shop_GOOD_Clothes/Shop_GOOD_Clothes/image/woman-600225_1280.jpg`} /></Button>
                         
 
                     </Card>
@@ -85,7 +85,7 @@ export const NewOldClothesCollectionImage = () => {
                             </Card.Text>
 
                         </Card.Body>
-                        <Button className="button-collection" type="submit"><Card.Img variant="bottom" src="/Shop_GOOD_Clothes/image/woman-3040029_1280.jpg" /></Button>
+                        <Button className="button-collection" type="submit"><Card.Img variant="bottom" src={`/Shop_GOOD_Clothes/Shop_GOOD_Clothes/image/woman-3040029_1280.jpg`} /></Button>
                         
 
                     </Card>

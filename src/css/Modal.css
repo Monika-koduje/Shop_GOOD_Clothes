@@ -19,7 +19,7 @@
 }
 
 .modal-content {
-    background-image: url("../../public/image/flowers.png");
+    background-image: url("/Shop_GOOD_Clothes/image/flowers.png");
     background-position-x: center;
 }
 
@@ -28,7 +28,7 @@
 }
 
 .modal-img-shop {
-    background-image: url("../../public/image/background.jpg");
+    background-image: url("/Shop_GOOD_Clothes/image/background.jpg");
     background-size: cover;
 }
 
