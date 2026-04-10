@@ -9,6 +9,7 @@ Project  -> [HERE](https://monika-koduje.github.io/Shop_GOOD_Clothes/) <-  is cr
 
 for WSB studies, specialization Business Application Developer
 
+*Demo project for portfolio purposes. Any resemblance to real companies, brands, or individuals is purely coincidental.
 
 Source: 
 
