@@ -25,8 +25,7 @@ https://kit.fontawesome.com/
 https://cssgradient.io/
 
 
-
-
+*Demo project for portfolio purposes. Any resemblance to real companies, brands, or individuals is purely coincidental.
 
 
 
