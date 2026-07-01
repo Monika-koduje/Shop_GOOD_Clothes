@@ -1,6 +1,9 @@
 # Shop_GOOD_Clothes
 
-Project  -> [HERE](https://monika-koduje.github.io/Shop_GOOD_Clothes/) <-  is created with:
+## Live Demo
+[Try the app here](https://monika-koduje.github.io/Shop_GOOD_Clothes/). 
+
+## Built with:
 
     React
     CSS3
