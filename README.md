@@ -1,9 +1,9 @@
 # Shop_GOOD_Clothes
 
-## Live Demo
+## Live Demo:
 [Try the app here](https://monika-koduje.github.io/Shop_GOOD_Clothes/)
 
-## Built with:
+## Technology stuck:
 
     React
     CSS3
