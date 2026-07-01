@@ -1,7 +1,7 @@
 # Shop_GOOD_Clothes
 
 ## Live Demo
-[Try the app here](https://monika-koduje.github.io/Shop_GOOD_Clothes/). 
+[Try the app here](https://monika-koduje.github.io/Shop_GOOD_Clothes/)
 
 ## Built with:
 
