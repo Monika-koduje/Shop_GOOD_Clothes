@@ -3,7 +3,7 @@
 ## Live Demo:
 [Try the app here](https://monika-koduje.github.io/Shop_GOOD_Clothes/)
 
-## Technology stuck:
+## Technology Stuck:
 
     React
     CSS3
